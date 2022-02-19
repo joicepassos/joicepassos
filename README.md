@@ -1,3 +1,4 @@
+<h1 align="center"> Hi! Nice do meet you </h1>
 <a href="https://github.com/joicepassos" alt="github" target="_blank">
 
 <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
@@ -18,5 +19,3 @@
 
                       
 <img src="https://github-readme-stats.vercel.app/api?username=joicepassos&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joicepassos&layout=compact&lang"/>
