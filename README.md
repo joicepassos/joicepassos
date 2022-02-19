@@ -19,4 +19,4 @@
                       
 <img src="https://github-readme-stats.vercel.app/api?username=joicepassos&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joicepassos&layout=compact&lang
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joicepassos&layout=compact&lang/>
