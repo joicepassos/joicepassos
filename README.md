@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!👋 Nice do meet you </h1>
+<h1 align="center"> Hi!👋 Nice to meet you </h1>
 <div align="center">
 <a href="https://github.com/joicepassos" alt="github" target="_blank">
 
@@ -17,10 +17,10 @@
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
 
 </a>
+</div>
 
                       
 <img src="https://github-readme-stats.vercel.app/api?username=joicepassos&show_icons=true&theme=tokyonight"/>
 
 <img href="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" alt=""/>
 
-</div>
