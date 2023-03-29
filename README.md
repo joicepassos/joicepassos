@@ -30,7 +30,12 @@ My name is Joice, and i am a passionate programmer with experience in PHP and Ja
         
 | <a href="https://github.com/joicepassos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joicepassos&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Joice's github stats" /></a> | <a href="https://github.com/joicepassos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicepassos&layout=compact&theme=dracula&hide_border=true" /></a> |
 
-                      
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joicepassosk&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joicepassos&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joicepassosk&theme=dracula) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joicepassosk&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=joicepassosk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 
 
