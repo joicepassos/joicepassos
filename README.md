@@ -1,6 +1,6 @@
 <h1 align="center"> Hi!👋 Nice to meet you </h1>
 
-My name is Joice, and i am a passionate programmer with experience in PHP and Javascript. This is my GitHub repository where I share my code projects and collaborate with other developers.However, please note that my primary repository for work-related projects is hosted on GitLab, so I may not make many commits on this GitHub repository. I'm learning at the moment: **Python**
+My name is Joice, and i am a passionate programmer with experience in PHP and Javascript. This is my GitHub repository where I share my code projects and collaborate with other developers.However, please note that my primary repository for work-related projects is hosted on GitLab, so I may not make many commits on this GitHub repository. I'm learning at the moment: **Vue.js**
 
 ## 💻 Contacts
 
