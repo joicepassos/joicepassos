@@ -1,6 +1,6 @@
 <h1 align="center"> Hi!👋 Nice to meet you </h1>
 
-My name is Joice, and i'm a programmer who mainly works with PHP and Javascript. Here on my GitHub profile, i share my code projects and try to collaborate with other developers, although i've only really helped once so far. I hope to be able to help more in the future! You might not see many uploads here on GitHub, but that doesn't mean i'm not working hard. In fact, i've been dedicating a lot of time to my work at the company i'm currently with, so i've been using GitLab more for my projects. If you want to keep up with my progress, just take a look at my profile there! Oh, and i'm currently learning Vue.js. :)
+My name is Joice, and i'm a programmer who mainly works with PHP and Javascript. Here on my GitHub profile, i share my code projects and try to collaborate with other developers, although i've only really helped once so far. 
 
 ## 💻 Contacts
 
