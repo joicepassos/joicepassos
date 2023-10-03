@@ -23,5 +23,5 @@ My name is Joice, and I'm a programmer currently learning Java and mainly workin
         
 ## ⚡ GitHub Stats
 
-| <a href="https://github.com/joicepassos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joicepassos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/joicepassos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicepassos&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/joicepassos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joicepassos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Joice's github stats" /></a> | <a href="https://github.com/joicepassos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicepassos&layout=compact&theme=buefy&hide_border=true" /></a> |
 
