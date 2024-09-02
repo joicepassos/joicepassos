@@ -1,6 +1,6 @@
 <h1 align="center"> Hi!👋 Nice to meet you </h1>
 
-My name is Joice, and I'm a programmer currently learning Java and mainly working with PHP, React, Java, and microservices. Here on my GitHub profile, I share my coding projects and aim to collaborate with other developers.
+Hi, I'm Joice, a Full-Stack Software Engineer with a focus on payment solutions and ERP systems. With experience in Java, PHP, JavaScript, and TypeScript, I specialize in developing robust and scalable applications.
 
 ## 🌐 Languages
 - 🇬🇧 English - Intermediate
